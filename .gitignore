@@ -1,0 +1,10 @@
+node_modules/
+dist/
+.env
+*.log
+server/uploads/
+.DS_Store
+coverage/
+client/dist/
+sewalLink/node_modules/
+sewalLink/dist/
